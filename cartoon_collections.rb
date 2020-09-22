@@ -33,7 +33,6 @@ def find_valid_calls(planeteer_calls)
     if valid_calls.include? (first_valid_name)
       
       return first_valid_name 
-
   end
   
  end 
